@@ -11,10 +11,11 @@ To run the project locally, follow the next steps:
 4. To run the project use the following command (node http_server.js)
 5. To open the project open the following URL with an explorer: localhost:3000.
 
-By the way, the code was deployec with Heroku and it's accesible with the following link: https://first-node-app-bf5b411572af.herokuapp.com/
-
 ## How to Stop project:
 To stop the project you should type the following command in your IDE terminal: CNTRL + C on Windows or CMD + C on a Mac.
+
+By the way, the code was deployed with Heroku and it's accesible with the following link:
+https://first-node-app-bf5b411572af.herokuapp.com/
 
 ## Improvements made:
 The improvements made in this project is that the deployment was done with Heroku.
