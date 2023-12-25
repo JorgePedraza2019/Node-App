@@ -14,8 +14,7 @@ To run the project locally, follow the next steps:
 ## How to Stop project:
 To stop the project you should type the following command in your IDE terminal: CNTRL + C on Windows or CMD + C on a Mac.
 
-By the way, the code was deployed with Heroku and it's accesible with the following link:
-https://first-node-app-bf5b411572af.herokuapp.com/
+By the way, the code was deployed with Heroku and it's accesible with the following link: https://first-node-app-bf5b411572af.herokuapp.com/
 
 ## Improvements made:
 The improvements made in this project is that the deployment was done with Heroku.
